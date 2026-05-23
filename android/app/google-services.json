@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511512504118",
+    "project_id": "cyberlog-7d5ff",
+    "storage_bucket": "cyberlog-7d5ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511512504118:android:13833fd7a25faeb7f17597",
+        "android_client_info": {
+          "package_name": "com.example.cyberlog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApnxY6j5kLZas2H7OR8xg5E7PuFeD7s64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
